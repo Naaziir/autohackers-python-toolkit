@@ -17,3 +17,7 @@ This repo contains 5 beginner-friendly scripts to automate real-life tasks using
 3. Run any script:
 ```bash
 python file_organizer.py
+
+# 📦 Prefer a packaged download?
+This bundle is also available as a downloadable toolkit:
+👉 https://autohackers.gumroad.com
