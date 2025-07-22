@@ -1,20 +1,19 @@
-# AutoHackers - Python Automation Toolkit
+# AutoHackers: Python Automation Toolkit
 
-This bundle contains 5 powerful scripts to automate your life:
+This repo contains 5 beginner-friendly scripts to automate real-life tasks using Python:
 
-1. **File Organizer** - Sort files into folders by type
-2. **PDF Merger** - Merge multiple PDFs into one
-3. **Web Scraper** - Scrape news headlines from BBC
-4. **Folder Auto Backup** - Zip and save your folder
-5. **Email Reminder Bot** - Send email reminders from terminal
+| Script | What It Does |
+|--------|---------------|
+| `file_organizer.py` | Sorts files by type into folders |
+| `pdf_merger.py` | Merges all PDFs in a folder |
+| `web_scraper.py` | Scrapes BBC headlines |
+| `auto_backup.py` | Zips and backs up folders |
+| `email_reminder.py` | Sends email reminders from CLI |
 
-## Instructions
+## 🚀 Try It
 
-- Requires Python 3
-- For `email_reminder.py`, enable Gmail "Less secure apps" or use an app password.
-- Use a virtual environment for testing.
-
-Run each script with:
+1. Clone this repo  
+2. Install Python 3  
+3. Run any script:
 ```bash
-python script_name.py
-```
+python file_organizer.py
